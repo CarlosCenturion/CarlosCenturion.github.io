@@ -1,1 +1,0 @@
-This are some code examples 
