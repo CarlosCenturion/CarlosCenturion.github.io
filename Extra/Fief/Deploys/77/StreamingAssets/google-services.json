@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129906455594",
+    "project_id": "fiefverse",
+    "storage_bucket": "fiefverse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129906455594:android:12b4da7037e24be2853f53",
+        "android_client_info": {
+          "package_name": "com.Fief.Fiefverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129906455594-gsk90q6vken9fluld52takg10d3tqvct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbiKba0HckdZ8XhIwkpYJnn85kZ6nyYhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129906455594-gsk90q6vken9fluld52takg10d3tqvct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
