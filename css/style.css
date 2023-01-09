@@ -210,6 +210,9 @@ label {
 .separator {
 	border-top: 1px solid #f2f2f2
 }
+.overflow-hidden {
+	overflow: hidden;
+}
 /* button style */
 .btn {
 	-moz-user-select: none;
@@ -1227,10 +1230,17 @@ ul.minicart .cart-price .new {
 
 /* 5. Slider */
 .slider-bg {
-	background-image: url(../img/slider/slider_bg.jpg);
-	background-position: center;
-	background-size: cover;
-	padding: 260px 0;
+	padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider-bg .slider-area__video {
+	width: 100%;
+    object-fit: cover;
+}
+.slider-bg .slider-area__video-content {
+	position: absolute;
 }
 .slider-content h6 {
 	font-size: 22px;
